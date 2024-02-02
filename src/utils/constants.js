@@ -11,26 +11,26 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
-
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+import logo from "../assets/logo.png"
+export {logo};
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
-  { name: 'Music', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon />, },
-  { name: 'Podcast', icon: <GraphicEqIcon />, },
+  { name: 'Latest', icon: <HomeIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
-  { name: 'Gaming', icon: <SportsEsportsIcon />, },
-  { name: 'Live', icon: <LiveTvIcon />, },
+  { name: 'Technology', icon: <CodeIcon />, },
+  { name: 'Coding', icon: <CodeIcon />, },
   { name: 'Sport', icon: <FitnessCenterIcon />, },
   { name: 'Fashion', icon: <CheckroomIcon />, },
   { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
+  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Education', icon: <SchoolIcon />, },
+  { name: 'Podcast', icon: <GraphicEqIcon />, },
+  { name: 'ReactJS', icon: <CodeIcon />, },
+  { name: 'Gaming', icon: <SportsEsportsIcon />, },
+  { name: 'Live', icon: <LiveTvIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
