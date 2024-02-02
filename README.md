@@ -1,8 +1,5 @@
 # YouTube Clone Website
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 A YouTube clone website built using React, Material UI, and integrated with RapidAPI.
 
 ## Features
@@ -21,8 +18,10 @@ A YouTube clone website built using React, Material UI, and integrated with Rapi
 - react-router-dom
 - RapidAPI
 
-## Demo
-https://drive.google.com/file/d/1L8mdWuQ6CRiJenKTQerB06AX1a3noQia/view?usp=sharing
+## Live Demo
+
+https://fancy-nasturtium-38d853.netlify.app/
+
 
 ![image](https://github.com/shivCan99/youtube-app-clone/assets/107194536/a736d6d3-5320-435a-8d5a-3cc1e82663ba)
 
