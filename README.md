@@ -2,6 +2,16 @@
 
 A YouTube clone website built using React, Material UI, and integrated with RapidAPI.
 
+## Live Demo
+
+https://fancy-nasturtium-38d853.netlify.app/
+
+
+![image](https://github.com/shivCan99/youtube-app-clone/assets/107194536/a736d6d3-5320-435a-8d5a-3cc1e82663ba)
+
+![image](https://github.com/shivCan99/youtube-app-clone/assets/107194536/22415b68-eb7d-4bbb-8ff0-265c810f2281)
+
+
 ## Features
 
 - 🎬 Video Player: Watch videos seamlessly.
@@ -17,15 +27,6 @@ A YouTube clone website built using React, Material UI, and integrated with Rapi
 - Material UI
 - react-router-dom
 - RapidAPI
-
-## Live Demo
-
-https://fancy-nasturtium-38d853.netlify.app/
-
-
-![image](https://github.com/shivCan99/youtube-app-clone/assets/107194536/a736d6d3-5320-435a-8d5a-3cc1e82663ba)
-
-![image](https://github.com/shivCan99/youtube-app-clone/assets/107194536/22415b68-eb7d-4bbb-8ff0-265c810f2281)
 
 
 ## Getting Started
